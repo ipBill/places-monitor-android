@@ -1,5 +1,8 @@
 # Android PlaceMonitor change log
 
+#### 2.2.3 (20 Jan, 2022)
+- Implement exported = false for android targeted 31
+
 #### 2.2.2 (10 May, 2021)
 - Fixed a crash that was caused when application did not find the required activity for requesting location permission.
 
